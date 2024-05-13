@@ -1,5 +1,5 @@
-![Header](./github-header-image.png)
 
+# Hey Im Daniel 🖐️
 <a href="https://www.instagram.com/d_salazrd/">![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
 
 
